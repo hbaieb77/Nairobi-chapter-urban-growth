@@ -1,0 +1,39 @@
+MERGING SCRIPT DOCUMENTATION
+
+merge_csv_local.py
+
+To use this script:
+
+Make sure you have already connected your local Git repository to a remote GitHub repository 
+
+Install the GitPython package if you haven't already
+
+Run the script with local CSV files as input: python merge_csvs_local.py merged_output.csv input1.csv input2.csv input3.csv.....
+
+
+
+
+merge_csv_git_raw.py
+
+To use this script:
+
+Make sure you have already connected your local Git repository to a remote GitHub repository 
+
+Install the GitPython package if you haven't already
+
+Run the script with local CSV files as input: python merge_csvs.py merged_output.csv https://raw.githubusercontent.com/user/repo/branch/input1.csv https://raw.githubusercontent.com/user/repo/branch/input2.csv https://raw.githubusercontent.com/user/repo/branch/input3.csv
+
+
+
+
+Merge_csv_test.py
+
+Runs and saves locally on your machine
+
+doesn't require initializing a github repository
+
+Run the script with local CSV files as input: python merge_csvs_local.py merged_output.csv input1.csv input2.csv input3.csv.....
+
+
+
+

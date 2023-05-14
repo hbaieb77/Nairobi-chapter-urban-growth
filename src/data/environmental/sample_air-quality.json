@@ -1,0 +1,542 @@
+{
+    "Cairo": {
+        "CO": {
+            "concentration": 247,
+            "aqi": 2
+        },
+        "NO2": {
+            "concentration": 16.28,
+            "aqi": 20
+        },
+        "O3": {
+            "concentration": 60.08,
+            "aqi": 53
+        },
+        "SO2": {
+            "concentration": 11.68,
+            "aqi": 17
+        },
+        "PM2.5": {
+            "concentration": 14.01,
+            "aqi": 45
+        },
+        "PM10": {
+            "concentration": 54,
+            "aqi": 50
+        },
+        "overall_aqi": 53
+    },
+    "Kinshasa": {
+        "CO": {
+            "concentration": 687.6,
+            "aqi": 7
+        },
+        "NO2": {
+            "concentration": 10.63,
+            "aqi": 13
+        },
+        "O3": {
+            "concentration": 0.26,
+            "aqi": 0
+        },
+        "SO2": {
+            "concentration": 2.15,
+            "aqi": 3
+        },
+        "PM2.5": {
+            "concentration": 23.41,
+            "aqi": 66
+        },
+        "PM10": {
+            "concentration": 94.2,
+            "aqi": 70
+        },
+        "overall_aqi": 70
+    },
+    "Lagos": {
+        "CO": {
+            "concentration": 1014.71,
+            "aqi": 11
+        },
+        "NO2": {
+            "concentration": 9,
+            "aqi": 11
+        },
+        "O3": {
+            "concentration": 8.94,
+            "aqi": 7
+        },
+        "SO2": {
+            "concentration": 4.29,
+            "aqi": 6
+        },
+        "PM2.5": {
+            "concentration": 29.25,
+            "aqi": 77
+        },
+        "PM10": {
+            "concentration": 67.52,
+            "aqi": 56
+        },
+        "overall_aqi": 77
+    },
+    "Giza": {
+        "CO": {
+            "concentration": 280.38,
+            "aqi": 3
+        },
+        "NO2": {
+            "concentration": 25.71,
+            "aqi": 32
+        },
+        "O3": {
+            "concentration": 62.23,
+            "aqi": 60
+        },
+        "SO2": {
+            "concentration": 25.99,
+            "aqi": 38
+        },
+        "PM2.5": {
+            "concentration": 20.57,
+            "aqi": 60
+        },
+        "PM10": {
+            "concentration": 80.85,
+            "aqi": 63
+        },
+        "overall_aqi": 63
+    },
+    "Luanda": {
+        "CO": {
+            "concentration": 767.71,
+            "aqi": 8
+        },
+        "NO2": {
+            "concentration": 12.85,
+            "aqi": 16
+        },
+        "O3": {
+            "concentration": 8.14,
+            "aqi": 6
+        },
+        "SO2": {
+            "concentration": 8.23,
+            "aqi": 12
+        },
+        "PM2.5": {
+            "concentration": 23.95,
+            "aqi": 67
+        },
+        "PM10": {
+            "concentration": 36.72,
+            "aqi": 34
+        },
+        "overall_aqi": 67
+    },
+    "Dar es Salaam": {
+        "CO": {
+            "concentration": 640.87,
+            "aqi": 7
+        },
+        "NO2": {
+            "concentration": 6.6,
+            "aqi": 8
+        },
+        "O3": {
+            "concentration": 5.1,
+            "aqi": 4
+        },
+        "SO2": {
+            "concentration": 3.19,
+            "aqi": 4
+        },
+        "PM2.5": {
+            "concentration": 13.43,
+            "aqi": 43
+        },
+        "PM10": {
+            "concentration": 25.11,
+            "aqi": 23
+        },
+        "overall_aqi": 43
+    },
+    "Khartoum": {
+        "CO": {
+            "concentration": 273.71,
+            "aqi": 3
+        },
+        "NO2": {
+            "concentration": 2.66,
+            "aqi": 3
+        },
+        "O3": {
+            "concentration": 81.54,
+            "aqi": 116
+        },
+        "SO2": {
+            "concentration": 1.22,
+            "aqi": 1
+        },
+        "PM2.5": {
+            "concentration": 29.07,
+            "aqi": 77
+        },
+        "PM10": {
+            "concentration": 117.23,
+            "aqi": 81
+        },
+        "overall_aqi": 116
+    },
+    "Johannesburg": {
+        "CO": {
+            "concentration": 2590.18,
+            "aqi": 29
+        },
+        "NO2": {
+            "concentration": 51.41,
+            "aqi": 64
+        },
+        "O3": {
+            "concentration": 0,
+            "aqi": 0
+        },
+        "SO2": {
+            "concentration": 81.06,
+            "aqi": 71
+        },
+        "PM2.5": {
+            "concentration": 161.27,
+            "aqi": 210
+        },
+        "PM10": {
+            "concentration": 207.75,
+            "aqi": 126
+        },
+        "overall_aqi": 210
+    },
+    "Abidjan": {
+        "CO": {
+            "concentration": 410.56,
+            "aqi": 4
+        },
+        "NO2": {
+            "concentration": 2.96,
+            "aqi": 3
+        },
+        "O3": {
+            "concentration": 12.16,
+            "aqi": 10
+        },
+        "SO2": {
+            "concentration": 1.03,
+            "aqi": 1
+        },
+        "PM2.5": {
+            "concentration": 6.04,
+            "aqi": 19
+        },
+        "PM10": {
+            "concentration": 33.75,
+            "aqi": 31
+        },
+        "overall_aqi": 31
+    },
+    "Alexandria": {
+        "CO": {
+            "concentration": 220.3,
+            "aqi": 2
+        },
+        "NO2": {
+            "concentration": 8.31,
+            "aqi": 10
+        },
+        "O3": {
+            "concentration": 91.55,
+            "aqi": 141
+        },
+        "SO2": {
+            "concentration": 19.79,
+            "aqi": 29
+        },
+        "PM2.5": {
+            "concentration": 4.29,
+            "aqi": 13
+        },
+        "PM10": {
+            "concentration": 10.51,
+            "aqi": 9
+        },
+        "overall_aqi": 141
+    },
+    "Addis Ababa": {
+        "CO": {
+            "concentration": 620.84,
+            "aqi": 7
+        },
+        "NO2": {
+            "concentration": 5.27,
+            "aqi": 6
+        },
+        "O3": {
+            "concentration": 16.09,
+            "aqi": 13
+        },
+        "SO2": {
+            "concentration": 0.91,
+            "aqi": 1
+        },
+        "PM2.5": {
+            "concentration": 19.91,
+            "aqi": 59
+        },
+        "PM10": {
+            "concentration": 178.29,
+            "aqi": 112
+        },
+        "overall_aqi": 112
+    },
+    "Nairobi": {
+        "CO": {
+            "concentration": 540.73,
+            "aqi": 6
+        },
+        "NO2": {
+            "concentration": 5.66,
+            "aqi": 7
+        },
+        "O3": {
+            "concentration": 7.15,
+            "aqi": 6
+        },
+        "SO2": {
+            "concentration": 4.77,
+            "aqi": 7
+        },
+        "PM2.5": {
+            "concentration": 7.95,
+            "aqi": 25
+        },
+        "PM10": {
+            "concentration": 19.13,
+            "aqi": 17
+        },
+        "overall_aqi": 25
+    },
+    "Cape Town": {
+        "CO": {
+            "concentration": 307.08,
+            "aqi": 3
+        },
+        "NO2": {
+            "concentration": 5.57,
+            "aqi": 6
+        },
+        "O3": {
+            "concentration": 32.54,
+            "aqi": 27
+        },
+        "SO2": {
+            "concentration": 8.82,
+            "aqi": 12
+        },
+        "PM2.5": {
+            "concentration": 4.5,
+            "aqi": 14
+        },
+        "PM10": {
+            "concentration": 10,
+            "aqi": 9
+        },
+        "overall_aqi": 27
+    },
+    "Yaound\u00e9": {
+        "CO": {
+            "concentration": 330.45,
+            "aqi": 3
+        },
+        "NO2": {
+            "concentration": 0.6,
+            "aqi": 0
+        },
+        "O3": {
+            "concentration": 3.31,
+            "aqi": 2
+        },
+        "SO2": {
+            "concentration": 0.29,
+            "aqi": 0
+        },
+        "PM2.5": {
+            "concentration": 2.35,
+            "aqi": 7
+        },
+        "PM10": {
+            "concentration": 3.88,
+            "aqi": 3
+        },
+        "overall_aqi": 7
+    },
+    "Kano": {
+        "CO": {
+            "concentration": 287.06,
+            "aqi": 3
+        },
+        "NO2": {
+            "concentration": 3.09,
+            "aqi": 3
+        },
+        "O3": {
+            "concentration": 69.38,
+            "aqi": 82
+        },
+        "SO2": {
+            "concentration": 1.45,
+            "aqi": 2
+        },
+        "PM2.5": {
+            "concentration": 12.24,
+            "aqi": 39
+        },
+        "PM10": {
+            "concentration": 12.57,
+            "aqi": 11
+        },
+        "overall_aqi": 82
+    },
+    "Ekurhuleni": {
+        "CO": {
+            "concentration": 1815.8,
+            "aqi": 20
+        },
+        "NO2": {
+            "concentration": 61.69,
+            "aqi": 77
+        },
+        "O3": {
+            "concentration": 0.1,
+            "aqi": 0
+        },
+        "SO2": {
+            "concentration": 61.04,
+            "aqi": 62
+        },
+        "PM2.5": {
+            "concentration": 108.03,
+            "aqi": 175
+        },
+        "PM10": {
+            "concentration": 153.56,
+            "aqi": 99
+        },
+        "overall_aqi": 175
+    },
+    "Douala": {
+        "CO": {
+            "concentration": 387.19,
+            "aqi": 4
+        },
+        "NO2": {
+            "concentration": 1.91,
+            "aqi": 2
+        },
+        "O3": {
+            "concentration": 2.55,
+            "aqi": 2
+        },
+        "SO2": {
+            "concentration": 0.44,
+            "aqi": 0
+        },
+        "PM2.5": {
+            "concentration": 7.4,
+            "aqi": 24
+        },
+        "PM10": {
+            "concentration": 31.4,
+            "aqi": 29
+        },
+        "overall_aqi": 29
+    },
+    "Casablanca": {
+        "CO": {
+            "concentration": 226.97,
+            "aqi": 2
+        },
+        "NO2": {
+            "concentration": 4.5,
+            "aqi": 5
+        },
+        "O3": {
+            "concentration": 108.72,
+            "aqi": 184
+        },
+        "SO2": {
+            "concentration": 8.7,
+            "aqi": 12
+        },
+        "PM2.5": {
+            "concentration": 19.99,
+            "aqi": 59
+        },
+        "PM10": {
+            "concentration": 57.02,
+            "aqi": 51
+        },
+        "overall_aqi": 184
+    },
+    "Ibadan": {
+        "CO": {
+            "concentration": 974.66,
+            "aqi": 11
+        },
+        "NO2": {
+            "concentration": 15.08,
+            "aqi": 18
+        },
+        "O3": {
+            "concentration": 2.1,
+            "aqi": 1
+        },
+        "SO2": {
+            "concentration": 6.38,
+            "aqi": 9
+        },
+        "PM2.5": {
+            "concentration": 26.35,
+            "aqi": 71
+        },
+        "PM10": {
+            "concentration": 55.26,
+            "aqi": 50
+        },
+        "overall_aqi": 71
+    },
+    "Antananarivo": {
+        "CO": {
+            "concentration": 453.95,
+            "aqi": 5
+        },
+        "NO2": {
+            "concentration": 2.42,
+            "aqi": 3
+        },
+        "O3": {
+            "concentration": 7.42,
+            "aqi": 6
+        },
+        "SO2": {
+            "concentration": 2,
+            "aqi": 2
+        },
+        "PM2.5": {
+            "concentration": 6.72,
+            "aqi": 21
+        },
+        "PM10": {
+            "concentration": 14.31,
+            "aqi": 13
+        },
+        "overall_aqi": 21
+    }
+}

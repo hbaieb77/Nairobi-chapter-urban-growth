@@ -1,0 +1,865 @@
+COU,Country,MEAS,Measure,Large subnational region,Small subnational region,VAR,Variable,Year,Unit Code,Unit,Value
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,899.2116
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,1713.5127
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,2326.8636
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,2761.2216
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,613.3509
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,1047.7089
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,434.358
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.038805605
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.073946884
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.10041613
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.119160911
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.026469245
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.045214027
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.018744781
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,575.5824
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,731.088
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,922.1418
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,1168.9668
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,191.0538
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,437.8788
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,155.5056
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.04590858
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.058311741
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.073550234
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.093237051
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.015238493
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.03492531
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.019686817
+AGO,Angola,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.012403161
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,250.2099
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,385.4943
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,517.0644
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,595.4958
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,131.5701
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,210.0015
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,135.2844
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.215960526
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.33272685
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.446287297
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.513982805
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.113560447
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.181255955
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.067695509
+BEN,Benin,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.116766324
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,68.9697
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,141.3567
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,220.1616
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,254.1015
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,78.8049
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,112.7448
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,33.9399
+BWA,Botswana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,72.387
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.011870508
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.024329174
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.037892438
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.043733899
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.013563263
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.019404725
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.005841462
+BWA,Botswana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.012458666
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,146.1663
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,178.2594
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,282.1356
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,346.5495
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,103.8762
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,168.2901
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.053180711
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.064857369
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.102651376
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.126087537
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.037794007
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.061230168
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.023436161
+BFA,Burkina Faso,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.011676658
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,26.8767
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,37.8684
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,60.1155
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,74.4984
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,22.2471
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,36.63
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,14.3829
+BDI,Burundi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,10.9917
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.107167243
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.150995175
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.239702508
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.297052397
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.088707333
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.146057221
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.057349888
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,270.6219
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,448.4241
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,626.2578
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,700.9281
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,177.8337
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,252.504
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,74.6703
+CMR,Cameroon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,177.8022
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.05798518
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.096082217
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.134186004
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.15018534
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.038103787
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.054103123
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.015999336
+CMR,Cameroon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.038097037
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,16.7067
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,16.7067
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,16.7067
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,17.8515
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,0
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,1.1448
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,1.1448
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.441193073
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.441193073
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.441193073
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.471425125
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.030232052
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.030232052
+CPV,Cabo Verde,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,79.3053
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,92.4867
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,128.5902
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,146.2032
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,17.613
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.012726563
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.014841855
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.020635585
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.023462041
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.005793729
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.008620186
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.002826456
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,99.9549
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,117.0108
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,156.8628
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,178.1955
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,39.852
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,61.1847
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,21.3327
+TCD,Chad,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,17.0559
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.007865471
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.009207604
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.012343566
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.01402224
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.003135962
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.004814637
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.001678675
+TCD,Chad,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.001342132
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,18.5931
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,18.5931
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,18.5931
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,31.572
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,0
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,12.9789
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,12.9789
+COM,Comoros,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,0
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,1.139709432
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,1.139709432
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,1.139709432
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,1.935282776
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.795573344
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.795573344
+COM,Comoros,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,31.1031
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,73.6794
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,42.5763
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,19.431
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.033935622
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.039634674
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.048757116
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.061244612
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.009122442
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.021609938
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.012487496
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,620.6886
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,773.712
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,986.9598
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,1171.3599
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,213.2478
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,397.6479
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,153.0234
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.19266457
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.24016373
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.306356819
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.363595451
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.066193089
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.12343172
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.057238631
+CIV,Côte d'Ivoire,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.047499161
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,869.1039
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,1155.609
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,1641.9258
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,2025.9846
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,486.3168
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,870.3756
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,286.5051
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.037652258
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.050064542
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.071133283
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.087771894
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.021068742
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.037707352
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,1.1205
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,1.6713
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,1.8036
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,2.2779
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,0.1323
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,0.6066
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,0.5508
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.005173797
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.007717061
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.008327943
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.010517976
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.000610882
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.002800915
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.002543264
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,2522.7225
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,2940.7536
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,3598.0551
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,4107.762
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,657.3015
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,1167.0084
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,509.7069
+EGY,Egypt,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,418.0311
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.256944463
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.299521788
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.366469295
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.418383989
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.066947507
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.1188622
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.051914694
+EGY,Egypt,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.042577325
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,20.2383
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,26.2638
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,31.3974
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,35.3835
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,3.9861
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.074810512
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.097083664
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.116059924
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.130794471
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,1.9035
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,3.7386
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,5.7438
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,8.613
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,2.0052
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,4.8744
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,1.8351
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.001567377
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.003078431
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.00472955
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.007092101
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.002362552
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.001511055
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,70.8138
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,167.8653
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,320.4081
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,493.7274
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,152.5428
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,325.8621
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,173.3193
+ETH,Ethiopia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,97.0515
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.006266216
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.014854169
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.028352471
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.043689257
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.013498302
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.028835088
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.015336786
+ETH,Ethiopia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.008587953
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,50.9247
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,69.8418
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,81.3204
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,86.2884
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,11.4786
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,16.4466
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,4.968
+GAB,Gabon,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,18.9171
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.019331538
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.026512664
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.030870058
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.032755962
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.004357394
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.006243298
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.007181125
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,80.2152
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,100.4733
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,123.2055
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,128.2698
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,22.7322
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,27.7965
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.759929072
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.951846802
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,1.167203239
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,1.21518054
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.215356437
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.263333738
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.047977301
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,987.2055
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,1292.7393
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,1731.8592
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,2064.9177
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,439.1199
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,772.1784
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,333.0585
+GHA,Ghana,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,305.5338
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.420539812
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.550694199
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.737754947
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.879634585
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.141879638
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.130154387
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,221.6088
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,291.8655
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,408.7512
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,499.248
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,116.8857
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,207.3825
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,90.4968
+GIN,Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,70.2567
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.09066046
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.119402572
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.16722067
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.204243033
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.047818098
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.084840462
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.028742111
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,37.5471
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,44.5329
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,59.0598
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,67.554
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,14.5269
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,23.0211
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,8.4942
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.121500664
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.144106386
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.191114757
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.218601592
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.047008371
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.074495205
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.027486835
+GNB,Guinea-Bissau,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.022605723
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,73.683
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,130.0095
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,222.7545
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,288.1962
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,92.745
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,158.1867
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,65.4417
+KEN,Kenya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,56.3265
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.012818587
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.022617674
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.038752466
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.050137319
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.016134792
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.027519645
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.011384853
+KEN,Kenya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.009799087
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,9.333
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,27.7146
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,45.0504
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,53.0433
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,17.3358
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,25.3287
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,7.9929
+LSO,Lesotho,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,18.3816
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.030542049
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.090695455
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.147426501
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.173583101
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.056731046
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.082887646
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,24.03
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,65.4444
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,41.4144
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,17.5446
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.157107054
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.175275979
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.200161088
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.243049221
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.024885109
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.067773242
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.042888133
+LBR,Liberia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.018168925
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,773.5545
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,1050.8184
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,1257.5214
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,1412.1585
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,206.703
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,361.3401
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,277.2639
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.047552198
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.064596256
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.077302771
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.086808674
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.012706515
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.022212418
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.009505903
+LBY,Libya,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.017044058
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,78.4548
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,112.1688
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,143.2278
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,165.9384
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,31.059
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,53.7696
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,33.714
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.013292285
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.019004314
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.024266517
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.028114283
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.005262203
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.00910997
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.005712029
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,59.3217
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,77.6835
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,130.4208
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,157.1931
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,52.7373
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,79.5096
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,26.7723
+MWI,Malawi,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,18.3618
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.062122885
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.081351734
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.136579302
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.164615797
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.055227568
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.083264063
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.028036495
+MWI,Malawi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.019228849
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,131.7897
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,241.6023
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,328.3812
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,414.5508
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,86.7789
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,172.9485
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,86.1696
+MLI,Mali,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,109.8126
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.010486619
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.019224502
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.026129573
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.032986162
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.006905071
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.01376166
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.008737882
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,74.6955
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,86.6871
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,99.0522
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,114.5394
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,12.3651
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,27.8523
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,15.4872
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.00715669
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.008305624
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.009490343
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.010974195
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.001184719
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.002668571
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.001483852
+MRT,Mauritania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.001148934
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,89.3808
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,89.3808
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,89.3808
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,132.9372
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,0
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,43.5564
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,0
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,4.513982793
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,4.513982793
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,4.513982793
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,6.713703987
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,2.199721194
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,473.9112
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,740.2581
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,1003.4208
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,1225.9998
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,263.1627
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,485.7417
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,222.579
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.114187887
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.178363601
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.241772089
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.295402021
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.063408488
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.11703842
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,317.9655
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,458.5086
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,672.0669
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,833.9625
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,213.5583
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,375.4539
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.040711527
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.058706323
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.086049807
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.106778524
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.027343484
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.048072202
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.020728718
+MOZ,Mozambique,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.017994796
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,35.8083
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,64.2096
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,82.89
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,96.0174
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,18.6804
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,31.8078
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.004325811
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.007756821
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.010013501
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.011599353
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.00225668
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.003842532
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.00343101
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,92.4084
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,173.5767
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,277.9245
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,375.8427
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,104.3478
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,202.266
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,97.9182
+NER,Niger,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,81.1683
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.007772517
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.014599623
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.023376369
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.031612318
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.008776746
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.017012695
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.008235949
+NER,Niger,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.006827106
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,2457.1035
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,4406.2596
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,5883.8733
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,7364.0358
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,1477.6137
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,2957.7762
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,1949.1561
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.269635261
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.483529878
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.645678829
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.808107478
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.162148951
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.3245776
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.162428649
+NGA,Nigeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.213894617
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,42.1542
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,70.983
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,104.2407
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,161.9415
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,33.2577
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,90.9585
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,57.7008
+RWA,Rwanda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,28.8288
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.175224954
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.295059399
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.433303725
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.673152187
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.138244326
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.378092788
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.239848462
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,0.2682
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,0.2682
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,0.2682
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,0.3537
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,0
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,0.0855
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,0
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.113951834
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.113951834
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.113951834
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.150278761
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.036326927
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.036326927
+STP,Sao Tome and Principe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,284.0454
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,366.417
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,479.1987
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,623.5164
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,112.7817
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,257.0994
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,144.3177
+SEN,Senegal,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,82.3716
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.144698956
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.186660856
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.244114327
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.317632929
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.057453471
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.130972073
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.073518601
+SEN,Senegal,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.0419619
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,1.3293
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,1.3293
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,1.3293
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,3.3642
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,0
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,2.0349
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,2.0349
+SYC,Seychelles,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,0
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.292163414
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.292163414
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.292163414
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.739408829
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.447245415
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.447245415
+SYC,Seychelles,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,107.2224
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,131.598
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,178.1415
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,240.5817
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,46.5435
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,108.9837
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,62.4402
+SLE,Sierra Leone,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,24.3756
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.147576471
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.181126038
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.245186584
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.331126689
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.064060546
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.150000652
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.033549566
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,465.9633
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,522.9603
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,561.3696
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,582.0498
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,38.4093
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,59.0895
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,56.997
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.073187918
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.082140322
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.088173193
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.091421391
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.006032871
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.009281069
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.008952404
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,3062.5848
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,4569.3936
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,5915.0655
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,6709.3425
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,1345.6719
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,2139.9489
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.250686757
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.374026039
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.484175519
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.549190772
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.065015253
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,254.025
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,422.0478
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,600.0651
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,782.2881
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,178.0173
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,360.2403
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,182.223
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.01371776
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.022791262
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.032404483
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.042244819
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.009613221
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.019453557
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.009073502
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,9.0045
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,20.9655
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,35.0064
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,46.4679
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,11.4615
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,11.961
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.080988049
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.147098093
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.066110044
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.068991165
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,434.1879
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,529.6815
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,747.0414
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,860.2074
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,217.3599
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,330.5259
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,95.4936
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.048783218
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.05951241
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.0839339
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.096648676
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.02442149
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.037136266
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.012714776
+TZA,Tanzania,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.010729192
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,138.3741
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,176.9301
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,232.4124
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,255.0204
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,55.4823
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,78.0903
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,22.608
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.242431446
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.309981564
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.407186563
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.446795783
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.097204999
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.136814218
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.03960922
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,621.9333
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,874.8261
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,1043.6841
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,1159.2189
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,168.858
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,284.3928
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,115.5348
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.400322136
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.563102592
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.671792053
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.74615877
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.108689461
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.183056178
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.074366717
+TUN,Tunisia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.162780456
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,155.0799
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,215.0298
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,347.5584
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,433.8531
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,132.5286
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,218.8233
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,86.2947
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.075010652
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.104007841
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.168110646
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.209850561
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.064102806
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.10584272
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.041739914
+UGA,Uganda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.028997188
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,313.5339
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,370.4499
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,460.206
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,546.4485
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,89.7561
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,175.9986
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,86.2425
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.042157468
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.049810339
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.061878858
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.073474942
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.012068519
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.023664603
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.007652871
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,156.0033
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,279.7317
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,416.6379
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,474.9174
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,136.9062
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,195.1857
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,58.2795
+ZWE,Zimbabwe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,123.7284
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.04003108
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.071780289
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.106910976
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.121865732
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.035130686
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.050085443
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.031749209
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,44.478
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,55.0998
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,75.6054
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,99.4365
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,23.8311
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,10.6218
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.007021712
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.008698568
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.011935773
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.015697973
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.003237205
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.006999405
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.001676856
+DZA,Algeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,814.3011
+DZA,Algeria,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.03514128
+AGO,Angola,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,246.825
+BEN,Benin,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,78.4314
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,64.4139
+BFA,Burkina Faso,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,32.0931
+BDI,Burundi,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.043827932
+CPV,Cabo Verde,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,0
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,36.1035
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,53.7165
+CAF,Central African Republic,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,13.1814
+CAF,Central African Republic,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.002115293
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,115.704
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,135.135
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,166.2381
+COG,Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,208.8144
+COG,Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.005699052
+CIV,Côte d'Ivoire,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,184.4001
+COD,Democratic Republic of the Congo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,384.0588
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.01663861
+COD,Democratic Republic of the Congo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.012412283
+DJI,Djibouti,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,0.4743
+DJI,Djibouti,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.002190033
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,5.1336
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,9.1197
+GNQ,Equatorial Guinea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,6.0255
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.01897626
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.033710807
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.014734547
+GNQ,Equatorial Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.022273152
+ERI,Eritrea,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,2.8692
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.001651118
+ERI,Eritrea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.00401367
+GAB,Gabon,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.001885904
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,5.0643
+GMB,Gambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,20.2581
+GMB,Gambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.19191773
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.187060749
+GHA,Ghana,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.328940387
+GIN,Guinea,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.037022364
+GNB,Guinea-Bissau,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,6.9858
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.0261566
+LSO,Lesotho,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.060153405
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,KM2,Square kilometres,151.7085
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,KM2,Square kilometres,169.2531
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,KM2,Square kilometres,193.2831
+LBR,Liberia,SQKM,Square kilometers,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,KM2,Square kilometres,234.6975
+LBY,Libya,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,154.6371
+MDG,Madagascar,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,22.7106
+MDG,Madagascar,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.003847767
+MLI,Mali,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.006856589
+MRT,Mauritania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,11.9916
+MUS,Mauritius,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,43.5564
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,2.199721194
+MUS,Mauritius,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0
+MAR,Morocco,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,266.3469
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.053629932
+MAR,Morocco,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.064175714
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,161.8956
+MOZ,Mozambique,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,140.5431
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,13.1274
+NAM,Namibia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,28.4013
+NAM,Namibia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.001585852
+NGA,Nigeria,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,1480.1625
+RWA,Rwanda,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.119834445
+STP,Sao Tome and Principe,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,0.0855
+SLE,Sierra Leone,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.085940106
+SOM,Somalia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,20.6802
+SOM,Somalia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.003248197
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,794.277
+ZAF,South Africa,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,1506.8088
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,PC,Percentage,0.11014948
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,PC,Percentage,0.175164733
+ZAF,South Africa,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.123339282
+SDN,Sudan,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,168.0228
+SDN,Sudan,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.009840336
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,14.0409
+SWZ,Eswatini,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,25.5024
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1975,PC,Percentage,0.051938044
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,1990,PC,Percentage,0.12092921
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2000,PC,Percentage,0.201917259
+SWZ,Eswatini,PCNT,Percent of total land area,Total,Total,BUILT_UP_BEFORE,Area built-up before,2014,PC,Percentage,0.268027303
+TZA,Tanzania,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,KM2,Square kilometres,113.166
+TGO,Togo,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,38.556
+TGO,Togo,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,PC,Percentage,0.067550118
+TUN,Tunisia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,252.8928
+UGA,Uganda,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,59.9499
+ZMB,Zambia,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1975,Built-up since 1975,1990,KM2,Square kilometres,56.916
+ZMB,Zambia,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.011596084
+ZWE,Zimbabwe,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.014954756
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2000,KM2,Square kilometres,20.5056
+SSD,South Sudan ,SQKM,Square kilometers,Total,Total,BUILT_UP_SINCE_1990,Built-up since 1990,2014,KM2,Square kilometres,44.3367
+SSD,South Sudan ,PCNT,Percent of total land area,Total,Total,BUILT_UP_SINCE_2000,Built-up since 2000,2014,PC,Percentage,0.0037622
